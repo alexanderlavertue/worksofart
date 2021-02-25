@@ -29,11 +29,11 @@ a{
 
 
 .outterbox{
-  width:60rem;
-  height: 55rem;
-  border: solid 2rem #005764;
-  margin: auto;
-  margin-top: 3rem;
+width:60rem;
+height: 55rem;
+border: solid 2rem #005764;
+margin: auto;
+margin-top: 3rem;
 }
 
 .container{
@@ -53,7 +53,7 @@ overflow: auto;
 	border: solid 1rem #005764;
 	height:20.5rem ;
 	width: 22.8rem;
-  display: flex;
+    display: flex;
 }
 
 
@@ -75,41 +75,41 @@ overflow: auto;
 }
 
 .innerbox3{
-  display: flex;
-  overflow: hidden;
-  flex-direction: row;
-  column-gap: 2rem;
+   display: flex;
+   overflow: hidden;
+   flex-direction: row;
+   column-gap: 2rem;
 }
 
 .sl{
 	height: 150%;
-  border-left: solid 3rem #005764; 
+    border-left: solid 3rem #005764; 
 	margin-left: 2rem;
-  transform: rotate(35deg);
-  margin-right: .5rem;
-  position: relative;
-  right: 8rem;
-  bottom: 4rem;
+    transform: rotate(35deg);
+    margin-right: .5rem;
+    position: relative;
+    right: 8rem;
+    bottom: 4rem;
 }
 
 
 .innerbox4{
-  overflow: hidden;
-  display: flex;
-  overflow: hidden;
-  flex-direction: row;
-  column-gap: 2rem;
+   overflow: hidden;
+   display: flex;
+   overflow: hidden;
+   flex-direction: row;
+   column-gap: 2rem;
 }
 
 .sl2{
 	height: 150%;
-  border-left: solid 3rem #005764; 
+    border-left: solid 3rem #005764; 
 	margin-left: 2rem;
-  transform: rotate(145deg);
-  margin-right: .5rem;
-  position: relative;
-  right: 8rem;
-  bottom: 6.5rem;
+    transform: rotate(145deg);
+    margin-right: .5rem;
+    position: relative;
+    right: 8rem;
+    bottom: 6.5rem;
 }
 
 @media only screen and (max-width:1024px) {
@@ -120,31 +120,31 @@ overflow: auto;
 
  .outterbox{
 
- width:50rem;
- height: 45rem;
- border: solid 2rem #005764;
- margin: auto;
- margin-top: 3rem;
+width:50rem;
+height: 45rem;
+border: solid 2rem #005764;
+margin: auto;
+margin-top: 3rem;
 }
 
 .container{
- width:39.6rem;
- height: 35rem;
- border: solid 2rem #005764;
- margin: auto;
- margin-top: 2.8rem;
- display: flex;
- flex-direction: row;
- flex-wrap: wrap;
- column-gap: 0rem;
- overflow: auto;
+width:39.6rem;
+height: 35rem;
+border: solid 2rem #005764;
+margin: auto;
+margin-top: 2.8rem;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+column-gap: 0rem;
+overflow: auto;
 }
 
 .innerbox{
 	border: solid 1rem #005764;
 	height:15.5em ;
 	width:17.8rem;
-display: flex;
+    display: flex;
 }
 
 
@@ -166,41 +166,41 @@ display: flex;
 }
 
 .innerbox3{
-  display: flex;
-  overflow: hidden;
-  flex-direction: row;
-  column-gap: 2rem;
+   display: flex;
+   overflow: hidden;
+   flex-direction: row;
+   column-gap: 2rem;
 }
 
 .sl{
 	height: 150%;
-  border-left: solid 2rem #005764; 
+    border-left: solid 2rem #005764; 
 	margin-left: 2rem;
-  transform: rotate(35deg);
-  margin-right: .5rem;
-  position: relative;
-  right: 8rem;
-  bottom: 4rem;
+    transform: rotate(35deg);
+    margin-right: .5rem;
+    position: relative;
+    right: 8rem;
+    bottom: 4rem;
 }
 
 
 .innerbox4{
-  overflow: hidden;
-  display: flex;
-  overflow: hidden;
-  flex-direction: row;
-  column-gap: 2rem;
+   overflow: hidden;
+   display: flex;
+   overflow: hidden;
+   flex-direction: row;
+   column-gap: 2rem;
 }
 
 .sl2{
 	height: 151%;
-  border-left: solid 2rem #005764; 
+    border-left: solid 2rem #005764; 
 	margin-left: 2rem;
-  transform: rotate(145deg);
-  margin-right: .5rem;
-  position: relative;
-  right: 7rem;
-  bottom: 5.2rem;
+    transform: rotate(145deg);
+    margin-right: .5rem;
+    position: relative;
+    right: 7rem;
+    bottom: 5.2rem;
 }
 }
 
@@ -209,37 +209,37 @@ display: flex;
   margin-bottom: 10rem;
 }
 
-.outterbox{
-  width:20rem;
-  height: 18rem;
-  border: solid 1rem #005764;
-  margin: auto;
-  margin-top: 3rem;
-}
-
 .info{
   margin-right: 1rem;
-  font-size: 1.7rem;
+}
+
+.outterbox{
+
+width:20rem;
+height: 18rem;
+border: solid 1rem #005764;
+margin: auto;
+margin-top: 3rem;
 }
 
 .container{
-  width:16rem;
-  height: 14rem;
-  border: solid .5rem #005764;
-  margin: auto;
-  margin-top: 1.3rem;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  column-gap: 0rem;
-  overflow: auto;
+width:16rem;
+height: 14rem;
+border: solid .5rem #005764;
+margin: auto;
+margin-top: 1.3rem;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+column-gap: 0rem;
+overflow: auto;
 }
 
 .innerbox{
 	border: solid .5rem #005764;
 	height:6rem ;
 	width:7rem;
-  display: flex;
+    display: flex;
 }
 
 
@@ -261,51 +261,50 @@ display: flex;
 }
 
 .innerbox3{
-  display: flex;
-  overflow: hidden;
-  flex-direction: row;
-  column-gap: .3rem;
+   display: flex;
+   overflow: hidden;
+   flex-direction: row;
+   column-gap: .3rem;
 
 }
 
 .sl{
 	height: 150%;
-  border-left: solid .7rem #005764; 
-	margin-left: .8rem;
-  transform: rotate(35deg);
-  margin-right: .5rem;
-  position: relative;
-  right: 2.6rem;
-  bottom: 1rem;
+    border-left: solid .7rem #005764; 
+	  margin-left: .8rem;
+    transform: rotate(35deg);
+    margin-right: .5rem;
+    position: relative;
+    right: 2.6rem;
+    bottom: 1rem;
 }
 
 
 .innerbox4{
-  overflow: hidden;
-  display: flex;
-  overflow: hidden;
-  flex-direction: row;
-  column-gap: .3rem;
+   overflow: hidden;
+   display: flex;
+   overflow: hidden;
+   flex-direction: row;
+   column-gap: .3rem;
 }
 
 .sl2{
 	height: 150%;
-  border-left: solid .7rem #005764; 
+    border-left: solid .7rem #005764; 
 	margin-left: .8rem;
-  transform: rotate(145deg);
-  margin-right: .5rem;
-  position: relative;
-  right: 2.6rem;
-  bottom: 2rem;
+    transform: rotate(145deg);
+    margin-right: .5rem;
+    position: relative;
+    right: 2.6rem;
+    bottom: 2rem;
 }
 
 
 .body2{
   font-family: sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   margin: 1rem;
 }
-
 
 
 }
