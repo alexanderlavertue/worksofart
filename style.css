@@ -1,16 +1,14 @@
 body {
-	background-color: #FFC802;
+  background-color: #FFC802;
 }
 
-.body2{
+.body2 {
   font-family: sans-serif;
   margin: 4rem;
   font-size: 3rem;
 }
 
-
-
-.info{
+.info {
   font-size: 2rem;
   text-align: center;
   font-family: sans-serif;
@@ -19,294 +17,252 @@ body {
   margin-right: 3rem;
   color: black;
 }
-a{
+
+a {
   color: black;
 }
 
-.paragraph{
+.paragraph {
   margin-bottom: 25rem;
 }
 
-
-.outterbox{
-width:60rem;
-height: 55rem;
-border: solid 2rem #005764;
-margin: auto;
-margin-top: 3rem;
+.outterbox {
+  width: 60rem;
+  height: 55rem;
+  border: solid 2rem #005764;
+  margin: auto;
+  margin-top: 3rem;
 }
 
-.container{
-width:49.6rem;
-height: 45rem;
-border: solid 2rem #005764;
-margin: auto;
-margin-top: 2.8rem;
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
-column-gap: 0rem;
-overflow: auto;
+.container {
+  width: 49.6rem;
+  height: 45rem;
+  border: solid 2rem #005764;
+  margin: auto;
+  margin-top: 2.8rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 0rem;
+  overflow: auto;
 }
 
-.innerbox{
-	border: solid 1rem #005764;
-	height:20.5rem ;
-	width: 22.8rem;
-    display: flex;
+.innerbox {
+  border: solid 1rem #005764;
+  height: 20.5rem;
+  width: 22.8rem;
+  display: flex;
 }
 
-
-.vl{
-	border-left: solid 3rem #005764; 
-	margin-left: 3.4rem;
-     
+.vl {
+  border-left: solid 3rem #005764;
+  margin-left: 3.4rem;
 }
 
-
-.innerbox2{
-	display: flex;
-	flex-direction: column;
+.innerbox2 {
+  display: flex;
+  flex-direction: column;
 }
 
-.hl{
-	border-top: solid 3rem #005764; 
-	margin-top: 3rem;
+.hl {
+  border-top: solid 3rem #005764;
+  margin-top: 3rem;
 }
 
-.innerbox3{
-   display: flex;
-   overflow: hidden;
-   flex-direction: row;
-   column-gap: 2rem;
+.innerbox3 {
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+  column-gap: 2rem;
 }
 
-.sl{
-	height: 150%;
-    border-left: solid 3rem #005764; 
-	margin-left: 2rem;
-    transform: rotate(35deg);
-    margin-right: .5rem;
-    position: relative;
-    right: 8rem;
-    bottom: 4rem;
+.sl {
+  height: 150%;
+  border-left: solid 3rem #005764;
+  margin-left: 2rem;
+  transform: rotate(35deg);
+  margin-right: .5rem;
+  position: relative;
+  right: 8rem;
+  bottom: 4rem;
 }
 
-
-.innerbox4{
-   overflow: hidden;
-   display: flex;
-   overflow: hidden;
-   flex-direction: row;
-   column-gap: 2rem;
+.innerbox4 {
+  overflow: hidden;
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+  column-gap: 2rem;
 }
 
-.sl2{
-	height: 150%;
-    border-left: solid 3rem #005764; 
-	margin-left: 2rem;
-    transform: rotate(145deg);
-    margin-right: .5rem;
-    position: relative;
-    right: 8rem;
-    bottom: 6.5rem;
+.sl2 {
+  height: 150%;
+  border-left: solid 3rem #005764;
+  margin-left: 2rem;
+  transform: rotate(145deg);
+  margin-right: .5rem;
+  position: relative;
+  right: 8rem;
+  bottom: 6.5rem;
 }
 
 @media only screen and (max-width:1024px) {
- .paragraph{
-  margin-bottom: 8rem;
- }
-
-
- .outterbox{
-
-width:50rem;
-height: 45rem;
-border: solid 2rem #005764;
-margin: auto;
-margin-top: 3rem;
-}
-
-.container{
-width:39.6rem;
-height: 35rem;
-border: solid 2rem #005764;
-margin: auto;
-margin-top: 2.8rem;
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
-column-gap: 0rem;
-overflow: auto;
-}
-
-.innerbox{
-	border: solid 1rem #005764;
-	height:15.5em ;
-	width:17.8rem;
+  .paragraph {
+    margin-bottom: 8rem;
+  }
+  .outterbox {
+    width: 50rem;
+    height: 45rem;
+    border: solid 2rem #005764;
+    margin: auto;
+    margin-top: 3rem;
+  }
+  .container {
+    width: 39.6rem;
+    height: 35rem;
+    border: solid 2rem #005764;
+    margin: auto;
+    margin-top: 2.8rem;
     display: flex;
-}
-
-
-.vl{
-	border-left: solid 2rem #005764; 
-	margin-left: 2.9rem;
-     
-}
-
-
-.innerbox2{
-	display: flex;
-	flex-direction: column;
-}
-
-.hl{
-	border-top: solid 2rem #005764; 
-	margin-top: 2.5rem;
-}
-
-.innerbox3{
-   display: flex;
-   overflow: hidden;
-   flex-direction: row;
-   column-gap: 2rem;
-}
-
-.sl{
-	height: 150%;
-    border-left: solid 2rem #005764; 
-	margin-left: 2rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 0rem;
+    overflow: auto;
+  }
+  .innerbox {
+    border: solid 1rem #005764;
+    height: 15.5em;
+    width: 17.8rem;
+    display: flex;
+  }
+  .vl {
+    border-left: solid 2rem #005764;
+    margin-left: 2.9rem;
+  }
+  .innerbox2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .hl {
+    border-top: solid 2rem #005764;
+    margin-top: 2.5rem;
+  }
+  .innerbox3 {
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    column-gap: 2rem;
+  }
+  .sl {
+    height: 150%;
+    border-left: solid 2rem #005764;
+    margin-left: 2rem;
     transform: rotate(35deg);
     margin-right: .5rem;
     position: relative;
     right: 8rem;
     bottom: 4rem;
-}
-
-
-.innerbox4{
-   overflow: hidden;
-   display: flex;
-   overflow: hidden;
-   flex-direction: row;
-   column-gap: 2rem;
-}
-
-.sl2{
-	height: 151%;
-    border-left: solid 2rem #005764; 
-	margin-left: 2rem;
+  }
+  .innerbox4 {
+    overflow: hidden;
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    column-gap: 2rem;
+  }
+  .sl2 {
+    height: 151%;
+    border-left: solid 2rem #005764;
+    margin-left: 2rem;
     transform: rotate(145deg);
     margin-right: .5rem;
     position: relative;
     right: 7rem;
     bottom: 5.2rem;
-}
+  }
 }
 
 @media only screen and (max-width:700px) {
-.paragraph{
-  margin-bottom: 10rem;
-}
-
-.info{
-  margin-right: 1rem;
-  font-size: 1.7rem;
-}
-
-.outterbox{
-
-width:20rem;
-height: 18rem;
-border: solid 1rem #005764;
-margin: auto;
-margin-top: 3rem;
-}
-
-.container{
-width:16rem;
-height: 14rem;
-border: solid .5rem #005764;
-margin: auto;
-margin-top: 1.3rem;
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
-column-gap: 0rem;
-overflow: auto;
-}
-
-.innerbox{
-	border: solid .5rem #005764;
-	height:6rem ;
-	width:7rem;
+  .paragraph {
+    margin-bottom: 10rem;
+  }
+  .info {
+    margin-right: 1rem;
+    font-size: 1.7rem;
+  }
+  .outterbox {
+    width: 20rem;
+    height: 18rem;
+    border: solid 1rem #005764;
+    margin: auto;
+    margin-top: 3rem;
+  }
+  .container {
+    width: 16rem;
+    height: 14rem;
+    border: solid .5rem #005764;
+    margin: auto;
+    margin-top: 1.3rem;
     display: flex;
-}
-
-
-.vl{
-	border-left: solid 1rem #005764; 
-	margin-left: 1rem;
-     
-}
-
-
-.innerbox2{
-	display: flex;
-	flex-direction: column;
-}
-
-.hl{
-	border-top: solid 1rem #005764; 
-	margin-top: .7rem;
-}
-
-.innerbox3{
-   display: flex;
-   overflow: hidden;
-   flex-direction: row;
-   column-gap: .3rem;
-
-}
-
-.sl{
-	height: 150%;
-    border-left: solid .7rem #005764; 
-	  margin-left: .8rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 0rem;
+    overflow: auto;
+  }
+  .innerbox {
+    border: solid .5rem #005764;
+    height: 6rem;
+    width: 7rem;
+    display: flex;
+  }
+  .vl {
+    border-left: solid 1rem #005764;
+    margin-left: 1rem;
+  }
+  .innerbox2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .hl {
+    border-top: solid 1rem #005764;
+    margin-top: .7rem;
+  }
+  .innerbox3 {
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    column-gap: .3rem;
+  }
+  .sl {
+    height: 150%;
+    border-left: solid .7rem #005764;
+    margin-left: .8rem;
     transform: rotate(35deg);
     margin-right: .5rem;
     position: relative;
     right: 2.6rem;
     bottom: 1rem;
-}
-
-
-.innerbox4{
-   overflow: hidden;
-   display: flex;
-   overflow: hidden;
-   flex-direction: row;
-   column-gap: .3rem;
-}
-
-.sl2{
-	height: 150%;
-    border-left: solid .7rem #005764; 
-	margin-left: .8rem;
+  }
+  .innerbox4 {
+    overflow: hidden;
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    column-gap: .3rem;
+  }
+  .sl2 {
+    height: 150%;
+    border-left: solid .7rem #005764;
+    margin-left: .8rem;
     transform: rotate(145deg);
     margin-right: .5rem;
     position: relative;
     right: 2.6rem;
     bottom: 2rem;
+  }
+  .body2 {
+    font-family: sans-serif;
+    font-size: 1.7rem;
+    margin: 1rem;
+  }
 }
-
-
-.body2{
-  font-family: sans-serif;
-  font-size: 1.7rem;
-  margin: 1rem;
-}
-
-
-}
-
