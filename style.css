@@ -2,9 +2,9 @@ body {
   background-color: #FFC802;
 }
 
-.body2 {
-  font-family: sans-serif;
+.maintext{
   margin: 4rem;
+  font-family: sans-serif;
   font-size: 3rem;
 }
 
@@ -260,9 +260,10 @@ a {
     right: 2.6rem;
     bottom: 2rem;
   }
-  .body2 {
-    font-family: sans-serif;
-    font-size: 1.7rem;
-    margin: 1rem;
-  }
+
+  .maintext{
+   font-family: sans-serif;
+   font-size: 1.7rem;
+   margin: 1rem;
+}
 }
